@@ -10,3 +10,5 @@ Devices in the network:
  -SERVER1:210.3.14.2
  -SERVER2:210.3.14.3
  -PC2:210.3.14.4
+ -PC3:168.90.0.6
+ -PC4:210.3.14.5
