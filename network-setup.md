@@ -1,0 +1,12 @@
+Devices in the network:
+-Router: Cisco ISR4331
+-Switch 1: Cisco 2960 IOS15
+-Switch 2: Cisco 2960 IOS15
+-Host Configs:
+ -PC0:168.90.0.3
+ -PC1:168.90.0.4
+ -SERVER0:168.90.0.5
+ -LAPTOP0:168.90.0.2
+ -SERVER1:210.3.14.2
+ -SERVER2:210.3.14.3
+ -PC2:210.3.14.4
